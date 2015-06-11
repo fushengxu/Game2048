@@ -1,0 +1,17 @@
+{
+    "alias": "MWN", 
+    "alias_pass": "mwn450921", 
+    "copy_resources": [
+        {
+            "from": "../Resources", 
+            "to": ""
+        }
+    ], 
+    "key_store": "D:\\Data\\zProjects_Cocos2dx\\Game2048\\bin\\release\\android.keystore", 
+    "key_store_pass": "mwn450921", 
+    "ndk_module_path": [
+        "../cocos2d", 
+        "../cocos2d/cocos", 
+        "../cocos2d/external"
+    ]
+}
